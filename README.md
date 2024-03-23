@@ -1,25 +1,13 @@
-# Friday Night Funkin' - Codename Engine (WIP)
+# Friday Night Funkin' - Okular Engine (WIP)
 
-## PLEASE NOTE - THIS IS STILL IN A BETA STATE
-### Mods created with beta versions of Codename may not be compatible with the release version
-Known issues in the beta:
-- Some options are missing
-
+## PLEASE NOTE - THIS ENGINE IS STILL IN DEVELOPMENT
 Build instructions are below. Press TAB on the main menu to switch mods.
 
 Also, the command `.\cne test` uses the source assets folder instead of the export one for easier development (Although you can still use `lime test windows` normally).
 
-## Codename Engine
+## Okular Engine
 
-Codename Engine is a new Friday Night Funkin' Engine aimed at simplifying modding, along with extensiblity and ease of use.<br>
-Make sure to read the wiki and join the Discord server linked there!<br>
-#### It includes many new features, as seen [here](FEATURES.md)<br>
-#### Wanna see the new features added in the most recent update? Click [here](PATCHNOTES.md)<br>
-
-## How to download
-
-Latest builds for the engine can be found in the [Actions](https://github.com/YoshiCrafter29/CodenameEngine/actions) tab.<br>
-In the future (when the engine won't be a WIP anymore) we're gonna also publish the engine on platforms like Gamebanana; stay tuned!
+Okular Engine is a fork of Codename Engine with new features and extras.
 
 <details>
   <summary><h2>How to build</h2></summary>
